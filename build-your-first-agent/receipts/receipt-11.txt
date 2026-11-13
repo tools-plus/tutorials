@@ -1,0 +1,8 @@
+Chai Point Corner
+Date: 2026-10-15
+-------------------------------
+Filter coffee             ₹60.00
+Vada pav x2               ₹70.00
+-------------------------------
+TOTAL                    ₹130.00
+Thank you!

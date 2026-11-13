@@ -1,0 +1,8 @@
+WellCare Pharmacy
+Date: 2026-10-11
+-------------------------------
+Vitamin D tablets        ₹320.00
+Bandages                  ₹45.00
+-------------------------------
+TOTAL                    ₹365.00
+Thank you!

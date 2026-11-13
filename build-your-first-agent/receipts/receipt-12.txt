@@ -1,0 +1,10 @@
+FreshBasket Grocery
+Date: 2026-10-17
+-------------------------------
+Paneer 500g              ₹210.00
+Curd 1kg                  ₹75.00
+Coffee powder            ₹340.00
+Apples 1kg               ₹180.00
+-------------------------------
+TOTAL                    ₹805.00
+Thank you!

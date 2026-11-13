@@ -1,0 +1,9 @@
+SpiceBox Delivery
+Date: 2026-10-10
+-------------------------------
+Chicken thali            ₹249.00
+Gulab jamun               ₹79.00
+Delivery fee              ₹25.00
+-------------------------------
+TOTAL                    ₹353.00
+Thank you!

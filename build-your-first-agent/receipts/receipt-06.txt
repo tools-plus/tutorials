@@ -1,0 +1,10 @@
+FreshBasket Grocery
+Date: 2026-10-08
+-------------------------------
+Basmati rice 5kg         ₹625.00
+Toor dal 1kg             ₹165.00
+Onions 2kg                ₹80.00
+Tomatoes 1kg              ₹40.00
+-------------------------------
+TOTAL                    ₹910.00
+Thank you!

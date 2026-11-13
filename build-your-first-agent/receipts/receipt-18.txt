@@ -1,0 +1,8 @@
+SpiceBox Delivery
+Date: 2026-10-26
+-------------------------------
+Veg pizza medium         ₹349.00
+Delivery fee              ₹25.00
+-------------------------------
+TOTAL                    ₹374.00
+Thank you!

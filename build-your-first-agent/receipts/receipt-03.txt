@@ -1,0 +1,9 @@
+QuickBite Delivery
+Date: 2026-10-03
+-------------------------------
+Paneer biryani           ₹289.00
+Butter naan x2            ₹98.00
+Delivery fee              ₹35.00
+-------------------------------
+TOTAL                    ₹422.00
+Thank you!
