@@ -1,6 +1,6 @@
 # Build Your First AI Agent, Free, on Your Laptop
 
-Code for the video: **[Build Your First AI Agent, Free, on Your Laptop](https://youtu.be/KY9FxCgaUSY)**
+Code for the video: **[Build Your First AI Agent, Free, on Your Laptop](https://youtu.be/po785ksNu3k)**
 
 A small expense agent in about 40 lines of Python. It reads 20 sample receipts and answers questions such as *"How much did I spend on petrol this month?"*. It runs fully on your own computer: no API key, no subscription, nothing leaves your laptop.
 
